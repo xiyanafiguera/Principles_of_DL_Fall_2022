@@ -1,1 +1,1 @@
-# Principles_of_deep_learning_2022_fall
+# Principles of Deep learning (Fall, 2022)
